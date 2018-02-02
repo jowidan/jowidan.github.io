@@ -1,0 +1,18 @@
+
+
+.container-fluid{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+body{background-image: url(../img/jakob.jpg);
+	background-repeat: no-repeat;
+	background-size: 1080px;
+
+	color: pink;
+	
+
+	 
+}
+.footer{
+	background-color: orange;
+}
